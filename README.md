@@ -1,3 +1,4 @@
 # LiyanGaoRepository
+# R Programming on coursera
 Programming Assignment 2 - cache the inverse of a matrix in R
-# This is the first try to commit a file on GitHub
+# Two functions makeCacheMatrix and cacheSolve in R were created in order to cache the inverse of a matrix to improve efficiency.
